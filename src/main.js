@@ -23,7 +23,7 @@ Vue.prototype.Qs= Qs;
 //const baseURL = 'http://localhost:8086'   //本地iis方式
 //const baseURL = 'http://localhost:8089'  //Dock方式-测试环境
 //const baseURL = 'http://15.15.0.10:8017'  //window发布方式
-const baseURL = 'http://59.172.208.254:93'  //Dock外网方
+const baseURL = ''  //Dock外网方
 
 Vue.prototype.api= baseURL;
 
